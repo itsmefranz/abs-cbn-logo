@@ -36,4 +36,4 @@ ctx.fillStyle = "black";
 ctx.fillRect(560, 330, 40, 215);
 
 ctx.font = "bold 145px Rotis Semi Serif";
-ctx.fillText("ABS-CBN", 325, 660);
+ctx.fillText("ABS-CBN", 265, 660);
